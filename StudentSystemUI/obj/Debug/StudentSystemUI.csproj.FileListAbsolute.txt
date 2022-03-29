@@ -1,0 +1,627 @@
+C:\Users\86166\Desktop\StudentSystemUI\StudentSystemUI\bin\Debug\StudentSystemUI.exe.config
+C:\Users\86166\Desktop\StudentSystemUI\StudentSystemUI\bin\Debug\StudentSystemUI.exe
+C:\Users\86166\Desktop\StudentSystemUI\StudentSystemUI\bin\Debug\StudentSystemUI.pdb
+C:\Users\86166\Desktop\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.csprojAssemblyReference.cache
+C:\Users\86166\Desktop\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.Form1.resources
+C:\Users\86166\Desktop\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.Properties.Resources.resources
+C:\Users\86166\Desktop\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.csproj.GenerateResource.cache
+C:\Users\86166\Desktop\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.csproj.CoreCompileInputs.cache
+C:\Users\86166\Desktop\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.csproj.CopyComplete
+C:\Users\86166\Desktop\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.exe
+C:\Users\86166\Desktop\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.pdb
+\\Mac\Home\Desktop\StudentSystemUI\StudentSystemUI\bin\Debug\StudentSystemUI.exe.config
+\\Mac\Home\Desktop\StudentSystemUI\StudentSystemUI\bin\Debug\StudentSystemUI.exe
+\\Mac\Home\Desktop\StudentSystemUI\StudentSystemUI\bin\Debug\StudentSystemUI.pdb
+\\Mac\Home\Desktop\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.Form1.resources
+\\Mac\Home\Desktop\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.Properties.Resources.resources
+\\Mac\Home\Desktop\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.csproj.CopyComplete
+\\Mac\Home\Desktop\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.exe
+\\Mac\Home\Desktop\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.pdb
+\\Mac\Home\Desktop\StudentSystemUI\StudentSystemUI\bin\Debug\MetroFramework.Design.dll
+\\Mac\Home\Desktop\StudentSystemUI\StudentSystemUI\bin\Debug\MetroFramework.dll
+\\Mac\Home\Desktop\StudentSystemUI\StudentSystemUI\bin\Debug\MetroFramework.Fonts.dll
+\\Mac\Home\Desktop\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.studentInfo.resources
+\\Mac\Home\Desktop\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.UC_course.resources
+E:\StudentSystemUI\StudentSystemUI\bin\Debug\StudentSystemUI.exe.config
+E:\StudentSystemUI\StudentSystemUI\bin\Debug\StudentSystemUI.exe
+E:\StudentSystemUI\StudentSystemUI\bin\Debug\StudentSystemUI.pdb
+E:\StudentSystemUI\StudentSystemUI\bin\Debug\IrisSkin4.dll
+E:\StudentSystemUI\StudentSystemUI\bin\Debug\MetroFramework.Design.dll
+E:\StudentSystemUI\StudentSystemUI\bin\Debug\MetroFramework.dll
+E:\StudentSystemUI\StudentSystemUI\bin\Debug\MetroFramework.Fonts.dll
+E:\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.Form1.resources
+E:\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.Properties.Resources.resources
+E:\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.studentInfo.resources
+E:\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.UC_course.resources
+E:\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.csproj.GenerateResource.cache
+E:\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.csproj.CoreCompileInputs.cache
+E:\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.csproj.CopyComplete
+E:\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.exe
+E:\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.pdb
+E:\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.csprojAssemblyReference.cache
+E:\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.UC_grade.resources
+E:\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.UC_person.resources
+E:\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.UC_manage.resources
+E:\StudentSystemUI\StudentSystemUI\obj\Debug\StudentManager.modifygradeFram.resources
+E:\StudentSystemUI\StudentSystemUI\obj\Debug\StudentManager.addmanForm.resources
+E:\StudentSystemUI\StudentSystemUI\obj\Debug\StudentManager.Form2.resources
+E:\StudentSystemUI\StudentSystemUI\obj\Debug\StudentManager.addstuForm.resources
+E:\StudentSystemUI\StudentSystemUI\obj\Debug\StudentManager.kaisheForm.resources
+E:\StudentSystemUI\StudentSystemUI\obj\Debug\StudentManager.countForm.resources
+E:\StudentSystemUI\StudentSystemUI\obj\Debug\StudentManager.MillonTest.resources
+E:\StudentSystemUI\StudentSystemUI\obj\Debug\StudentManager.modifymanForm.resources
+E:\StudentSystemUI\StudentSystemUI\obj\Debug\StudentManager.modifymimaForm.resources
+E:\StudentSystemUI\StudentSystemUI\obj\Debug\StudentManager.modifystuForm.resources
+E:\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.addmanForm.resources
+E:\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.Form2.resources
+E:\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.addstuForm.resources
+E:\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.kaisheForm.resources
+E:\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.countForm.resources
+E:\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.MillonTest.resources
+E:\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.modifymanForm.resources
+E:\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.modifymimaForm.resources
+E:\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.modifygradeFram.resources
+E:\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.modifystuForm.resources
+E:\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.AddAdmin.resources
+C:\Users\Administrator\Desktop\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.AddAdmin.resources
+C:\Users\Administrator\Desktop\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.Form2.resources
+C:\Users\Administrator\Desktop\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.addstuForm.resources
+C:\Users\Administrator\Desktop\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.kaisheForm.resources
+C:\Users\Administrator\Desktop\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.Form1.resources
+C:\Users\Administrator\Desktop\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.countForm.resources
+C:\Users\Administrator\Desktop\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.MillonTest.resources
+C:\Users\Administrator\Desktop\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.modifymanForm.resources
+C:\Users\Administrator\Desktop\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.modifymimaForm.resources
+C:\Users\Administrator\Desktop\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.modifygradeFram.resources
+C:\Users\Administrator\Desktop\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.modifystuForm.resources
+C:\Users\Administrator\Desktop\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.Properties.Resources.resources
+C:\Users\Administrator\Desktop\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.studentInfo.resources
+C:\Users\Administrator\Desktop\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.UC_grade.resources
+C:\Users\Administrator\Desktop\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.UC_course.resources
+C:\Users\Administrator\Desktop\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.UC_manage.resources
+C:\Users\Administrator\Desktop\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.UC_person.resources
+C:\Users\Administrator\Desktop\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.exe
+C:\Users\Administrator\Desktop\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.pdb
+C:\Users\Administrator\Desktop\StudentSystemUI\StudentSystemUI\bin\Debug\StudentSystemUI.exe.config
+C:\Users\Administrator\Desktop\StudentSystemUI\StudentSystemUI\bin\Debug\StudentSystemUI.exe
+C:\Users\Administrator\Desktop\StudentSystemUI\StudentSystemUI\bin\Debug\StudentSystemUI.pdb
+C:\Users\Administrator\Desktop\StudentSystemUI\StudentSystemUI\bin\Debug\MetroFramework.Design.dll
+C:\Users\Administrator\Desktop\StudentSystemUI\StudentSystemUI\bin\Debug\MetroFramework.dll
+C:\Users\Administrator\Desktop\StudentSystemUI\StudentSystemUI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Administrator\Desktop\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.csproj.CopyComplete
+E:\StudentSystemUI\StudentSystemUI\StudentSystemUI\bin\Debug\StudentSystemUI.exe.config
+E:\StudentSystemUI\StudentSystemUI\StudentSystemUI\bin\Debug\StudentSystemUI.exe
+E:\StudentSystemUI\StudentSystemUI\StudentSystemUI\bin\Debug\StudentSystemUI.pdb
+E:\StudentSystemUI\StudentSystemUI\StudentSystemUI\bin\Debug\MetroFramework.Design.dll
+E:\StudentSystemUI\StudentSystemUI\StudentSystemUI\bin\Debug\MetroFramework.dll
+E:\StudentSystemUI\StudentSystemUI\StudentSystemUI\bin\Debug\MetroFramework.Fonts.dll
+E:\StudentSystemUI\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.csprojAssemblyReference.cache
+E:\StudentSystemUI\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.AddAdmin.resources
+E:\StudentSystemUI\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.Form2.resources
+E:\StudentSystemUI\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.addstuForm.resources
+E:\StudentSystemUI\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.kaisheForm.resources
+E:\StudentSystemUI\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.Form1.resources
+E:\StudentSystemUI\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.countForm.resources
+E:\StudentSystemUI\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.MillonTest.resources
+E:\StudentSystemUI\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.modifymanForm.resources
+E:\StudentSystemUI\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.modifymimaForm.resources
+E:\StudentSystemUI\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.modifygradeFram.resources
+E:\StudentSystemUI\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.modifystuForm.resources
+E:\StudentSystemUI\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.Properties.Resources.resources
+E:\StudentSystemUI\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.studentInfo.resources
+E:\StudentSystemUI\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.UC_grade.resources
+E:\StudentSystemUI\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.UC_course.resources
+E:\StudentSystemUI\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.UC_manage.resources
+E:\StudentSystemUI\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.UC_person.resources
+E:\StudentSystemUI\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.csproj.GenerateResource.cache
+E:\StudentSystemUI\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.csproj.CoreCompileInputs.cache
+E:\StudentSystemUI\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.csproj.CopyComplete
+E:\StudentSystemUI\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.exe
+E:\StudentSystemUI\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.pdb
+E:\StudentSystemUI\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.searchclassForm.resources
+E:\StudentSystemUI\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.UC_AddAdmin.resources
+E:\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\bin\Debug\StudentSystemUI.exe.config
+E:\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\bin\Debug\StudentSystemUI.exe
+E:\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\bin\Debug\StudentSystemUI.pdb
+E:\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\bin\Debug\MetroFramework.Design.dll
+E:\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\bin\Debug\MetroFramework.dll
+E:\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\bin\Debug\MetroFramework.Fonts.dll
+E:\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.csprojAssemblyReference.cache
+E:\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.Form1.resources
+E:\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.Properties.Resources.resources
+E:\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.studentInfo.resources
+E:\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.UC_addadmin.resources
+E:\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.UC_grade.resources
+E:\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.UC_course.resources
+E:\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.UC_manage.resources
+E:\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.UC_person.resources
+E:\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.csproj.GenerateResource.cache
+E:\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.csproj.CoreCompileInputs.cache
+E:\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.csproj.CopyComplete
+E:\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.exe
+E:\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.pdb
+E:\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.UC_addgradeform.resources
+E:\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.UC_addstudent.resources
+E:\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.UC_courseinformation.resources
+E:\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.UC_gradeshowform.resources
+E:\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.UC_modifyadmininfo.resources
+E:\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.UC_modifypassword.resources
+E:\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.UC_modifystudentgrade.resources
+E:\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.UC_modifystudentinfo.resources
+E:\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.UC_searchclassform.resources
+C:\Users\lzr\Desktop\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\bin\Debug\StudentSystemUI.exe.config
+C:\Users\lzr\Desktop\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\bin\Debug\StudentSystemUI.exe
+C:\Users\lzr\Desktop\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\bin\Debug\StudentSystemUI.pdb
+C:\Users\lzr\Desktop\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\bin\Debug\MetroFramework.Design.dll
+C:\Users\lzr\Desktop\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\bin\Debug\MetroFramework.dll
+C:\Users\lzr\Desktop\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\lzr\Desktop\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.csprojAssemblyReference.cache
+C:\Users\lzr\Desktop\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.Form1.resources
+C:\Users\lzr\Desktop\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.Properties.Resources.resources
+C:\Users\lzr\Desktop\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.studentInfo.resources
+C:\Users\lzr\Desktop\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.UC_addadmin.resources
+C:\Users\lzr\Desktop\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.UC_addgradeform.resources
+C:\Users\lzr\Desktop\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.UC_addstudent.resources
+C:\Users\lzr\Desktop\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.UC_courseinformation.resources
+C:\Users\lzr\Desktop\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.UC_grade.resources
+C:\Users\lzr\Desktop\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.UC_course.resources
+C:\Users\lzr\Desktop\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.UC_gradeshowform.resources
+C:\Users\lzr\Desktop\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.UC_manage.resources
+C:\Users\lzr\Desktop\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.UC_modifyadmininfo.resources
+C:\Users\lzr\Desktop\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.UC_modifypassword.resources
+C:\Users\lzr\Desktop\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.UC_modifystudentgrade.resources
+C:\Users\lzr\Desktop\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.UC_modifystudentinfo.resources
+C:\Users\lzr\Desktop\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.UC_person.resources
+C:\Users\lzr\Desktop\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.UC_searchclassform.resources
+C:\Users\lzr\Desktop\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.csproj.GenerateResource.cache
+C:\Users\lzr\Desktop\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.csproj.CoreCompileInputs.cache
+C:\Users\lzr\Desktop\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.csproj.CopyComplete
+C:\Users\lzr\Desktop\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.exe
+C:\Users\lzr\Desktop\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.pdb
+E:\StudentSystemUI01\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\bin\Debug\StudentSystemUI.exe.config
+E:\StudentSystemUI01\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\bin\Debug\StudentSystemUI.exe
+E:\StudentSystemUI01\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\bin\Debug\StudentSystemUI.pdb
+E:\StudentSystemUI01\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\bin\Debug\MetroFramework.Design.dll
+E:\StudentSystemUI01\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\bin\Debug\MetroFramework.dll
+E:\StudentSystemUI01\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\bin\Debug\MetroFramework.Fonts.dll
+E:\StudentSystemUI01\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.csprojAssemblyReference.cache
+E:\StudentSystemUI01\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.Form1.resources
+E:\StudentSystemUI01\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.Properties.Resources.resources
+E:\StudentSystemUI01\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.studentInfo.resources
+E:\StudentSystemUI01\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.UC_addadmin.resources
+E:\StudentSystemUI01\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.UC_addgradeform.resources
+E:\StudentSystemUI01\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.UC_addstudent.resources
+E:\StudentSystemUI01\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.UC_courseinformation.resources
+E:\StudentSystemUI01\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.UC_grade.resources
+E:\StudentSystemUI01\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.UC_course.resources
+E:\StudentSystemUI01\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.UC_gradeshowform.resources
+E:\StudentSystemUI01\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.UC_manage.resources
+E:\StudentSystemUI01\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.UC_modifyadmininfo.resources
+E:\StudentSystemUI01\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.UC_modifypassword.resources
+E:\StudentSystemUI01\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.UC_modifystudentgrade.resources
+E:\StudentSystemUI01\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.UC_modifystudentinfo.resources
+E:\StudentSystemUI01\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.UC_person.resources
+E:\StudentSystemUI01\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.UC_searchclassform.resources
+E:\StudentSystemUI01\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.csproj.GenerateResource.cache
+E:\StudentSystemUI01\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.csproj.CoreCompileInputs.cache
+E:\StudentSystemUI01\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.csproj.CopyComplete
+E:\StudentSystemUI01\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.exe
+E:\StudentSystemUI01\StudentSystemUI 01\StudentSystemUI\StudentSystemUI\obj\Debug\StudentSystemUI.pdb
+C:\Users\lzr\Desktop\StudentSystemUI Man\StudentSystemUI\bin\Debug\StudentSystemUI.exe.config
+C:\Users\lzr\Desktop\StudentSystemUI Man\StudentSystemUI\bin\Debug\StudentSystemUI.exe
+C:\Users\lzr\Desktop\StudentSystemUI Man\StudentSystemUI\bin\Debug\StudentSystemUI.pdb
+C:\Users\lzr\Desktop\StudentSystemUI Man\StudentSystemUI\bin\Debug\MetroFramework.Design.dll
+C:\Users\lzr\Desktop\StudentSystemUI Man\StudentSystemUI\bin\Debug\MetroFramework.dll
+C:\Users\lzr\Desktop\StudentSystemUI Man\StudentSystemUI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\lzr\Desktop\StudentSystemUI Man\StudentSystemUI\obj\Debug\StudentSystemUI.csprojAssemblyReference.cache
+C:\Users\lzr\Desktop\StudentSystemUI Man\StudentSystemUI\obj\Debug\StudentSystemUI.Form1.resources
+C:\Users\lzr\Desktop\StudentSystemUI Man\StudentSystemUI\obj\Debug\StudentSystemUI.Properties.Resources.resources
+C:\Users\lzr\Desktop\StudentSystemUI Man\StudentSystemUI\obj\Debug\StudentSystemUI.studentInfo.resources
+C:\Users\lzr\Desktop\StudentSystemUI Man\StudentSystemUI\obj\Debug\StudentSystemUI.UC_grade.resources
+C:\Users\lzr\Desktop\StudentSystemUI Man\StudentSystemUI\obj\Debug\StudentSystemUI.UC_course.resources
+C:\Users\lzr\Desktop\StudentSystemUI Man\StudentSystemUI\obj\Debug\StudentSystemUI.csproj.GenerateResource.cache
+C:\Users\lzr\Desktop\StudentSystemUI Man\StudentSystemUI\obj\Debug\StudentSystemUI.csproj.CoreCompileInputs.cache
+C:\Users\lzr\Desktop\StudentSystemUI Man\StudentSystemUI\obj\Debug\StudentSystemUI.csproj.CopyComplete
+C:\Users\lzr\Desktop\StudentSystemUI Man\StudentSystemUI\obj\Debug\StudentSystemUI.exe
+C:\Users\lzr\Desktop\StudentSystemUI Man\StudentSystemUI\obj\Debug\StudentSystemUI.pdb
+C:\Users\lzr\Desktop\StudentSystemUI Man\StudentSystemUI\obj\Debug\ManagerUI.managerInfo.resources
+C:\Users\lzr\Desktop\StudentSystemUI Man\StudentSystemUI\obj\Debug\ManagerUI.UC_addadmin.resources
+C:\Users\lzr\Desktop\StudentSystemUI Man\StudentSystemUI\obj\Debug\ManagerUI.UC_addgradeform.resources
+C:\Users\lzr\Desktop\StudentSystemUI Man\StudentSystemUI\obj\Debug\ManagerUI.UC_addstudent.resources
+C:\Users\lzr\Desktop\StudentSystemUI Man\StudentSystemUI\obj\Debug\ManagerUI.UC_courseinformation.resources
+C:\Users\lzr\Desktop\StudentSystemUI Man\StudentSystemUI\obj\Debug\ManagerUI.UC_grade.resources
+C:\Users\lzr\Desktop\StudentSystemUI Man\StudentSystemUI\obj\Debug\ManagerUI.UC_course.resources
+C:\Users\lzr\Desktop\StudentSystemUI Man\StudentSystemUI\obj\Debug\ManagerUI.UC_gradeshowform.resources
+C:\Users\lzr\Desktop\StudentSystemUI Man\StudentSystemUI\obj\Debug\ManagerUI.UC_manage.resources
+C:\Users\lzr\Desktop\StudentSystemUI Man\StudentSystemUI\obj\Debug\ManagerUI.UC_modifyadmininfo.resources
+C:\Users\lzr\Desktop\StudentSystemUI Man\StudentSystemUI\obj\Debug\ManagerUI.UC_modifypassword.resources
+C:\Users\lzr\Desktop\StudentSystemUI Man\StudentSystemUI\obj\Debug\ManagerUI.UC_modifystudentgrade.resources
+C:\Users\lzr\Desktop\StudentSystemUI Man\StudentSystemUI\obj\Debug\ManagerUI.UC_modifystudentinfo.resources
+C:\Users\lzr\Desktop\StudentSystemUI Man\StudentSystemUI\obj\Debug\ManagerUI.UC_person.resources
+C:\Users\lzr\Desktop\StudentSystemUI Man\StudentSystemUI\obj\Debug\ManagerUI.UC_searchclassform.resources
+C:\Users\lzr\Desktop\StudentSystemUI Man\StudentSystemUI\obj\Debug\StudentSystemUI.passwordForm.resources
+C:\Users\lzr\Desktop\StudentSystemUI Man\StudentSystemUI\obj\Debug\StudentSystemUI.UC_personGrade.resources
+C:\Users\lzr\Desktop\StudentSystemUI Man\StudentSystemUI\obj\Debug\StudentSystemUI.UC_personinfo.resources
+C:\Users\lzr\Desktop\StudentSystemUI Man\StudentSystemUI\obj\Debug\StudentSystemUI.UC_searchClass.resources
+C:\Users\lzr\Desktop\StudentSystemUI Man\StudentSystemUI\obj\Debug\StudentSystemUI.UC_selectClass.resources
+C:\Users\lzr\Desktop\StudentSystemUI Man\StudentSystemUI\obj\Debug\StudentSystemUI.UC_stuInfo.resources
+C:\Users\lzr\Desktop\StudentSystem\StudentSystemUI\bin\Debug\StudentSystemUI.exe.config
+C:\Users\lzr\Desktop\StudentSystem\StudentSystemUI\bin\Debug\StudentSystemUI.exe
+C:\Users\lzr\Desktop\StudentSystem\StudentSystemUI\bin\Debug\StudentSystemUI.pdb
+C:\Users\lzr\Desktop\StudentSystem\StudentSystemUI\bin\Debug\MetroFramework.Design.dll
+C:\Users\lzr\Desktop\StudentSystem\StudentSystemUI\bin\Debug\MetroFramework.dll
+C:\Users\lzr\Desktop\StudentSystem\StudentSystemUI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\lzr\Desktop\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.csprojAssemblyReference.cache
+C:\Users\lzr\Desktop\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.Form1.resources
+C:\Users\lzr\Desktop\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.Properties.Resources.resources
+C:\Users\lzr\Desktop\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.managerInfo.resources
+C:\Users\lzr\Desktop\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_addadmin.resources
+C:\Users\lzr\Desktop\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_addgradeform.resources
+C:\Users\lzr\Desktop\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_addstudent.resources
+C:\Users\lzr\Desktop\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_courseinformation.resources
+C:\Users\lzr\Desktop\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_grade.resources
+C:\Users\lzr\Desktop\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_course.resources
+C:\Users\lzr\Desktop\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_gradeshowform.resources
+C:\Users\lzr\Desktop\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_manage.resources
+C:\Users\lzr\Desktop\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_modifyadmininfo.resources
+C:\Users\lzr\Desktop\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_modifypassword.resources
+C:\Users\lzr\Desktop\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_modifystudentgrade.resources
+C:\Users\lzr\Desktop\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_modifystudentinfo.resources
+C:\Users\lzr\Desktop\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_person.resources
+C:\Users\lzr\Desktop\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_searchclassform.resources
+C:\Users\lzr\Desktop\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.passwordForm.resources
+C:\Users\lzr\Desktop\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.studentInfo.resources
+C:\Users\lzr\Desktop\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.UC_course.resources
+C:\Users\lzr\Desktop\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.UC_grade.resources
+C:\Users\lzr\Desktop\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.UC_personGrade.resources
+C:\Users\lzr\Desktop\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.UC_personinfo.resources
+C:\Users\lzr\Desktop\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.UC_searchClass.resources
+C:\Users\lzr\Desktop\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.UC_selectClass.resources
+C:\Users\lzr\Desktop\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.UC_stuInfo.resources
+C:\Users\lzr\Desktop\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.csproj.GenerateResource.cache
+C:\Users\lzr\Desktop\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.csproj.CoreCompileInputs.cache
+C:\Users\lzr\Desktop\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.csproj.CopyComplete
+C:\Users\lzr\Desktop\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.exe
+C:\Users\lzr\Desktop\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.pdb
+E:\StudentSystem\StudentSystem\StudentSystemUI\bin\Debug\StudentSystemUI.exe.config
+E:\StudentSystem\StudentSystem\StudentSystemUI\bin\Debug\StudentSystemUI.exe
+E:\StudentSystem\StudentSystem\StudentSystemUI\bin\Debug\StudentSystemUI.pdb
+E:\StudentSystem\StudentSystem\StudentSystemUI\bin\Debug\MetroFramework.Design.dll
+E:\StudentSystem\StudentSystem\StudentSystemUI\bin\Debug\MetroFramework.dll
+E:\StudentSystem\StudentSystem\StudentSystemUI\bin\Debug\MetroFramework.Fonts.dll
+E:\StudentSystem\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.csprojAssemblyReference.cache
+E:\StudentSystem\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.Form1.resources
+E:\StudentSystem\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.Properties.Resources.resources
+E:\StudentSystem\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.managerInfo.resources
+E:\StudentSystem\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_addadmin.resources
+E:\StudentSystem\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_addgradeform.resources
+E:\StudentSystem\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_addstudent.resources
+E:\StudentSystem\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_courseinformation.resources
+E:\StudentSystem\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_grade.resources
+E:\StudentSystem\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_course.resources
+E:\StudentSystem\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_gradeshowform.resources
+E:\StudentSystem\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_manage.resources
+E:\StudentSystem\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_modifyadmininfo.resources
+E:\StudentSystem\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_modifypassword.resources
+E:\StudentSystem\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_modifystudentgrade.resources
+E:\StudentSystem\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_modifystudentinfo.resources
+E:\StudentSystem\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_person.resources
+E:\StudentSystem\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_searchclassform.resources
+E:\StudentSystem\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.passwordForm.resources
+E:\StudentSystem\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.studentInfo.resources
+E:\StudentSystem\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.UC_course.resources
+E:\StudentSystem\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.UC_grade.resources
+E:\StudentSystem\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.UC_personGrade.resources
+E:\StudentSystem\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.UC_personinfo.resources
+E:\StudentSystem\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.UC_searchClass.resources
+E:\StudentSystem\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.UC_selectClass.resources
+E:\StudentSystem\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.UC_stuInfo.resources
+E:\StudentSystem\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.csproj.GenerateResource.cache
+E:\StudentSystem\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.csproj.CoreCompileInputs.cache
+E:\StudentSystem\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.csproj.CopyComplete
+E:\StudentSystem\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.exe
+E:\StudentSystem\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.pdb
+C:\Users\lzr\Desktop\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\bin\Debug\StudentSystemUI.exe.config
+C:\Users\lzr\Desktop\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\bin\Debug\StudentSystemUI.exe
+C:\Users\lzr\Desktop\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\bin\Debug\StudentSystemUI.pdb
+C:\Users\lzr\Desktop\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\bin\Debug\MetroFramework.Design.dll
+C:\Users\lzr\Desktop\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\bin\Debug\MetroFramework.dll
+C:\Users\lzr\Desktop\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\lzr\Desktop\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.csprojAssemblyReference.cache
+C:\Users\lzr\Desktop\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.Form1.resources
+C:\Users\lzr\Desktop\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.Properties.Resources.resources
+C:\Users\lzr\Desktop\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.managerInfo.resources
+C:\Users\lzr\Desktop\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_addadmin.resources
+C:\Users\lzr\Desktop\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_addgradeform.resources
+C:\Users\lzr\Desktop\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_addstudent.resources
+C:\Users\lzr\Desktop\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_courseinformation.resources
+C:\Users\lzr\Desktop\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_grade.resources
+C:\Users\lzr\Desktop\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_course.resources
+C:\Users\lzr\Desktop\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_gradeshowform.resources
+C:\Users\lzr\Desktop\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_manage.resources
+C:\Users\lzr\Desktop\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_modifyadmininfo.resources
+C:\Users\lzr\Desktop\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_modifystudentgrade.resources
+C:\Users\lzr\Desktop\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_modifystudentinfo.resources
+C:\Users\lzr\Desktop\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_person.resources
+C:\Users\lzr\Desktop\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_searchclassform.resources
+C:\Users\lzr\Desktop\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.studentInfo.resources
+C:\Users\lzr\Desktop\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.UC_course.resources
+C:\Users\lzr\Desktop\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.UC_grade.resources
+C:\Users\lzr\Desktop\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.UC_modifyPassword.resources
+C:\Users\lzr\Desktop\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.UC_searchClass.resources
+C:\Users\lzr\Desktop\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.UC_selectClass.resources
+C:\Users\lzr\Desktop\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.UC_stuInfo.resources
+C:\Users\lzr\Desktop\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.UC_PersonInfo.resources
+C:\Users\lzr\Desktop\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.UC_courseTable.resources
+C:\Users\lzr\Desktop\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.csproj.GenerateResource.cache
+C:\Users\lzr\Desktop\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.csproj.CoreCompileInputs.cache
+C:\Users\lzr\Desktop\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.csproj.CopyComplete
+C:\Users\lzr\Desktop\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.exe
+C:\Users\lzr\Desktop\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.pdb
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\bin\Debug\StudentSystemUI.exe.config
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\bin\Debug\StudentSystemUI.exe
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\bin\Debug\StudentSystemUI.pdb
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\bin\Debug\MetroFramework.Design.dll
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\bin\Debug\MetroFramework.dll
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\bin\Debug\MetroFramework.Fonts.dll
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.csprojAssemblyReference.cache
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.Form1.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.Properties.Resources.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.managerInfo.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_addadmin.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_addgradeform.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_addstudent.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_courseinformation.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_grade.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_course.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_gradeshowform.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_manage.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_modifyadmininfo.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_modifystudentgrade.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_modifystudentinfo.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_person.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_searchclassform.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.studentInfo.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.UC_course.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.UC_grade.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.UC_modifyPassword.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.UC_searchClass.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.UC_selectClass.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.UC_stuInfo.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.UC_PersonInfo.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.UC_courseTable.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.csproj.GenerateResource.cache
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.csproj.CoreCompileInputs.cache
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.csproj.CopyComplete
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.exe
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.pdb
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\bin\Debug\StudentSystemUI.exe.config
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\bin\Debug\StudentSystemUI.exe
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\bin\Debug\StudentSystemUI.pdb
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\bin\Debug\MetroFramework.Design.dll
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\bin\Debug\MetroFramework.dll
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\bin\Debug\MetroFramework.Fonts.dll
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.csprojAssemblyReference.cache
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.Form1.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.Properties.Resources.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.managerInfo.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_addadmin.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_addgradeform.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_addstudent.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_courseinformation.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_grade.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_course.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_gradeshowform.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_manage.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_modifyadmininfo.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_modifystudentgrade.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_modifystudentinfo.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_person.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_searchclassform.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.studentInfo.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.UC_course.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.UC_grade.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.UC_modifyPassword.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.UC_searchClass.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.UC_selectClass.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.UC_stuInfo.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.UC_PersonInfo.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.UC_courseTable.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.csproj.GenerateResource.cache
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.csproj.CoreCompileInputs.cache
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.csproj.CopyComplete
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.exe
+D:\StudyMaterials\C#教务管理系统 参考代码\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.pdb
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\bin\Debug\StudentSystemUI.exe.config
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\bin\Debug\StudentSystemUI.exe
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\bin\Debug\StudentSystemUI.pdb
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\bin\Debug\MetroFramework.Design.dll
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\bin\Debug\MetroFramework.dll
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\bin\Debug\MetroFramework.Fonts.dll
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.csprojAssemblyReference.cache
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.Form1.resources
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.Properties.Resources.resources
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.managerInfo.resources
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_addadmin.resources
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_addgradeform.resources
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_addstudent.resources
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_courseinformation.resources
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_grade.resources
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_course.resources
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_gradeshowform.resources
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_manage.resources
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_modifyadmininfo.resources
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_modifystudentgrade.resources
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_modifystudentinfo.resources
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_person.resources
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_searchclassform.resources
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.studentInfo.resources
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.UC_course.resources
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.UC_grade.resources
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.UC_modifyPassword.resources
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.UC_searchClass.resources
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.UC_selectClass.resources
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.UC_stuInfo.resources
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.UC_PersonInfo.resources
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.UC_courseTable.resources
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.csproj.GenerateResource.cache
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.csproj.CoreCompileInputs.cache
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.csproj.CopyComplete
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.exe
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-管理员学生端修改版\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.pdb
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-pri\StudentSystem\StudentSystemUI\bin\Debug\StudentSystemUI.exe.config
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-pri\StudentSystem\StudentSystemUI\bin\Debug\StudentSystemUI.exe
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-pri\StudentSystem\StudentSystemUI\bin\Debug\StudentSystemUI.pdb
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-pri\StudentSystem\StudentSystemUI\bin\Debug\MetroFramework.Design.dll
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-pri\StudentSystem\StudentSystemUI\bin\Debug\MetroFramework.dll
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-pri\StudentSystem\StudentSystemUI\bin\Debug\MetroFramework.Fonts.dll
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-pri\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.csprojAssemblyReference.cache
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-pri\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.Form1.resources
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-pri\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.Properties.Resources.resources
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-pri\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.managerInfo.resources
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-pri\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_addadmin.resources
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-pri\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_addgradeform.resources
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-pri\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_addstudent.resources
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-pri\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_courseinformation.resources
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-pri\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_grade.resources
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-pri\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_course.resources
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-pri\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_gradeshowform.resources
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-pri\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_manage.resources
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-pri\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_modifyadmininfo.resources
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-pri\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_modifystudentgrade.resources
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-pri\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_modifystudentinfo.resources
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-pri\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_person.resources
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-pri\StudentSystem\StudentSystemUI\obj\Debug\ManagerUI.UC_searchclassform.resources
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-pri\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.studentInfo.resources
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-pri\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.UC_course.resources
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-pri\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.UC_grade.resources
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-pri\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.UC_modifyPassword.resources
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-pri\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.UC_searchClass.resources
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-pri\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.UC_selectClass.resources
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-pri\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.UC_stuInfo.resources
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-pri\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.UC_PersonInfo.resources
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-pri\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.UC_courseTable.resources
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-pri\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.csproj.GenerateResource.cache
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-pri\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.csproj.CoreCompileInputs.cache
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-pri\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.csproj.CopyComplete
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-pri\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.exe
+E:\大作业\finally version except UI\versi2.3.1\versi2.3.1\StudentSystem-pri\StudentSystem\StudentSystemUI\obj\Debug\StudentSystemUI.pdb
+C:\Users\lzr\Desktop\StudentSystem-pri\StudentSystemUI\bin\Debug\StudentSystemUI.exe.config
+C:\Users\lzr\Desktop\StudentSystem-pri\StudentSystemUI\bin\Debug\StudentSystemUI.exe
+C:\Users\lzr\Desktop\StudentSystem-pri\StudentSystemUI\bin\Debug\StudentSystemUI.pdb
+C:\Users\lzr\Desktop\StudentSystem-pri\StudentSystemUI\bin\Debug\MetroFramework.Design.dll
+C:\Users\lzr\Desktop\StudentSystem-pri\StudentSystemUI\bin\Debug\MetroFramework.dll
+C:\Users\lzr\Desktop\StudentSystem-pri\StudentSystemUI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\lzr\Desktop\StudentSystem-pri\StudentSystemUI\obj\Debug\StudentSystemUI.csprojAssemblyReference.cache
+C:\Users\lzr\Desktop\StudentSystem-pri\StudentSystemUI\obj\Debug\StudentSystemUI.Form1.resources
+C:\Users\lzr\Desktop\StudentSystem-pri\StudentSystemUI\obj\Debug\StudentSystemUI.Properties.Resources.resources
+C:\Users\lzr\Desktop\StudentSystem-pri\StudentSystemUI\obj\Debug\ManagerUI.managerInfo.resources
+C:\Users\lzr\Desktop\StudentSystem-pri\StudentSystemUI\obj\Debug\ManagerUI.UC_addadmin.resources
+C:\Users\lzr\Desktop\StudentSystem-pri\StudentSystemUI\obj\Debug\ManagerUI.UC_addgradeform.resources
+C:\Users\lzr\Desktop\StudentSystem-pri\StudentSystemUI\obj\Debug\ManagerUI.UC_addstudent.resources
+C:\Users\lzr\Desktop\StudentSystem-pri\StudentSystemUI\obj\Debug\ManagerUI.UC_courseinformation.resources
+C:\Users\lzr\Desktop\StudentSystem-pri\StudentSystemUI\obj\Debug\ManagerUI.UC_grade.resources
+C:\Users\lzr\Desktop\StudentSystem-pri\StudentSystemUI\obj\Debug\ManagerUI.UC_course.resources
+C:\Users\lzr\Desktop\StudentSystem-pri\StudentSystemUI\obj\Debug\ManagerUI.UC_gradeshowform.resources
+C:\Users\lzr\Desktop\StudentSystem-pri\StudentSystemUI\obj\Debug\ManagerUI.UC_manage.resources
+C:\Users\lzr\Desktop\StudentSystem-pri\StudentSystemUI\obj\Debug\ManagerUI.UC_modifyadmininfo.resources
+C:\Users\lzr\Desktop\StudentSystem-pri\StudentSystemUI\obj\Debug\ManagerUI.UC_modifystudentgrade.resources
+C:\Users\lzr\Desktop\StudentSystem-pri\StudentSystemUI\obj\Debug\ManagerUI.UC_modifystudentinfo.resources
+C:\Users\lzr\Desktop\StudentSystem-pri\StudentSystemUI\obj\Debug\ManagerUI.UC_person.resources
+C:\Users\lzr\Desktop\StudentSystem-pri\StudentSystemUI\obj\Debug\ManagerUI.UC_searchclassform.resources
+C:\Users\lzr\Desktop\StudentSystem-pri\StudentSystemUI\obj\Debug\StudentSystemUI.studentInfo.resources
+C:\Users\lzr\Desktop\StudentSystem-pri\StudentSystemUI\obj\Debug\StudentSystemUI.UC_course.resources
+C:\Users\lzr\Desktop\StudentSystem-pri\StudentSystemUI\obj\Debug\StudentSystemUI.UC_grade.resources
+C:\Users\lzr\Desktop\StudentSystem-pri\StudentSystemUI\obj\Debug\StudentSystemUI.UC_modifyPassword.resources
+C:\Users\lzr\Desktop\StudentSystem-pri\StudentSystemUI\obj\Debug\StudentSystemUI.UC_searchClass.resources
+C:\Users\lzr\Desktop\StudentSystem-pri\StudentSystemUI\obj\Debug\StudentSystemUI.UC_selectClass.resources
+C:\Users\lzr\Desktop\StudentSystem-pri\StudentSystemUI\obj\Debug\StudentSystemUI.UC_stuInfo.resources
+C:\Users\lzr\Desktop\StudentSystem-pri\StudentSystemUI\obj\Debug\StudentSystemUI.UC_PersonInfo.resources
+C:\Users\lzr\Desktop\StudentSystem-pri\StudentSystemUI\obj\Debug\StudentSystemUI.UC_courseTable.resources
+C:\Users\lzr\Desktop\StudentSystem-pri\StudentSystemUI\obj\Debug\StudentSystemUI.csproj.GenerateResource.cache
+C:\Users\lzr\Desktop\StudentSystem-pri\StudentSystemUI\obj\Debug\StudentSystemUI.csproj.CoreCompileInputs.cache
+C:\Users\lzr\Desktop\StudentSystem-pri\StudentSystemUI\obj\Debug\StudentSystemUI.csproj.CopyComplete
+C:\Users\lzr\Desktop\StudentSystem-pri\StudentSystemUI\obj\Debug\StudentSystemUI.exe
+C:\Users\lzr\Desktop\StudentSystem-pri\StudentSystemUI\obj\Debug\StudentSystemUI.pdb
+D:\StudyMaterials\C#教务管理系统 参考代码\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\bin\Debug\StudentSystemUI.exe.config
+D:\StudyMaterials\C#教务管理系统 参考代码\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\bin\Debug\StudentSystemUI.exe
+D:\StudyMaterials\C#教务管理系统 参考代码\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\bin\Debug\StudentSystemUI.pdb
+D:\StudyMaterials\C#教务管理系统 参考代码\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\bin\Debug\MetroFramework.Design.dll
+D:\StudyMaterials\C#教务管理系统 参考代码\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\bin\Debug\MetroFramework.dll
+D:\StudyMaterials\C#教务管理系统 参考代码\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\bin\Debug\MetroFramework.Fonts.dll
+D:\StudyMaterials\C#教务管理系统 参考代码\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\StudentSystemUI.csprojAssemblyReference.cache
+D:\StudyMaterials\C#教务管理系统 参考代码\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\StudentSystemUI.Form1.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\StudentSystemUI.UC_managerInfo.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\StudentSystemUI.Properties.Resources.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\ManagerUI.managerInfo.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\ManagerUI.UC_addadmin.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\ManagerUI.UC_addgradeform.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\ManagerUI.UC_addstudent.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\ManagerUI.UC_courseinformation.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\ManagerUI.UC_grade.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\ManagerUI.UC_course.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\ManagerUI.UC_gradeshowform.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\ManagerUI.UC_manage.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\ManagerUI.UC_modifyadmininfo.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\ManagerUI.UC_modifystudentgrade.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\ManagerUI.UC_modifystudentinfo.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\ManagerUI.UC_person.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\ManagerUI.UC_searchclassform.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\StudentSystemUI.studentInfo.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\StudentSystemUI.UC_course.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\StudentSystemUI.UC_grade.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\StudentSystemUI.UC_modifyPassword.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\StudentSystemUI.UC_searchClass.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\StudentSystemUI.UC_selectClass.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\StudentSystemUI.UC_stuInfo.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\StudentSystemUI.UC_PersonInfo.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\StudentSystemUI.UC_courseTable.resources
+D:\StudyMaterials\C#教务管理系统 参考代码\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\StudentSystemUI.csproj.GenerateResource.cache
+D:\StudyMaterials\C#教务管理系统 参考代码\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\StudentSystemUI.csproj.CoreCompileInputs.cache
+D:\StudyMaterials\C#教务管理系统 参考代码\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\StudentSystemUI.csproj.CopyComplete
+D:\StudyMaterials\C#教务管理系统 参考代码\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\StudentSystemUI.exe
+D:\StudyMaterials\C#教务管理系统 参考代码\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\StudentSystemUI.pdb
+C:\Users\lzr\Desktop\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\bin\Debug\StudentSystemUI.exe.config
+C:\Users\lzr\Desktop\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\bin\Debug\StudentSystemUI.exe
+C:\Users\lzr\Desktop\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\bin\Debug\StudentSystemUI.pdb
+C:\Users\lzr\Desktop\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\bin\Debug\MetroFramework.Design.dll
+C:\Users\lzr\Desktop\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\bin\Debug\MetroFramework.dll
+C:\Users\lzr\Desktop\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\lzr\Desktop\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\StudentSystemUI.csprojAssemblyReference.cache
+C:\Users\lzr\Desktop\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\StudentSystemUI.Form1.resources
+C:\Users\lzr\Desktop\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\StudentSystemUI.UC_managerInfo.resources
+C:\Users\lzr\Desktop\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\StudentSystemUI.Properties.Resources.resources
+C:\Users\lzr\Desktop\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\ManagerUI.managerInfo.resources
+C:\Users\lzr\Desktop\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\ManagerUI.UC_addadmin.resources
+C:\Users\lzr\Desktop\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\ManagerUI.UC_addgradeform.resources
+C:\Users\lzr\Desktop\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\ManagerUI.UC_addstudent.resources
+C:\Users\lzr\Desktop\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\ManagerUI.UC_courseinformation.resources
+C:\Users\lzr\Desktop\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\ManagerUI.UC_grade.resources
+C:\Users\lzr\Desktop\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\ManagerUI.UC_course.resources
+C:\Users\lzr\Desktop\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\ManagerUI.UC_gradeshowform.resources
+C:\Users\lzr\Desktop\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\ManagerUI.UC_manage.resources
+C:\Users\lzr\Desktop\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\ManagerUI.UC_modifystudentgrade.resources
+C:\Users\lzr\Desktop\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\ManagerUI.UC_modifystudentinfo.resources
+C:\Users\lzr\Desktop\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\ManagerUI.UC_person.resources
+C:\Users\lzr\Desktop\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\ManagerUI.UC_searchclassform.resources
+C:\Users\lzr\Desktop\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\StudentSystemUI.studentInfo.resources
+C:\Users\lzr\Desktop\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\StudentSystemUI.UC_course.resources
+C:\Users\lzr\Desktop\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\StudentSystemUI.UC_grade.resources
+C:\Users\lzr\Desktop\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\StudentSystemUI.UC_modifyPassword.resources
+C:\Users\lzr\Desktop\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\StudentSystemUI.UC_searchClass.resources
+C:\Users\lzr\Desktop\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\StudentSystemUI.UC_selectClass.resources
+C:\Users\lzr\Desktop\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\StudentSystemUI.UC_stuInfo.resources
+C:\Users\lzr\Desktop\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\StudentSystemUI.UC_PersonInfo.resources
+C:\Users\lzr\Desktop\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\StudentSystemUI.UC_courseTable.resources
+C:\Users\lzr\Desktop\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\StudentSystemUI.csproj.GenerateResource.cache
+C:\Users\lzr\Desktop\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\StudentSystemUI.csproj.CoreCompileInputs.cache
+C:\Users\lzr\Desktop\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\StudentSystemUI.csproj.CopyComplete
+C:\Users\lzr\Desktop\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\StudentSystemUI.exe
+C:\Users\lzr\Desktop\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\StudentSystemUI.pdb
+C:\Users\lzr\Desktop\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri2\StudentSystem-pri\StudentSystemUI\obj\Debug\ManagerUI.UC_admininfo.resources

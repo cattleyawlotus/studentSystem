@@ -1,0 +1,314 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E6EAE379-2F51-4EB7-9EF2-19725E87C5ED}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>StudentSystemUI</RootNamespace>
+    <AssemblyName>StudentSystemUI</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="IrisSkin4, Version=2006.3.22.45, Culture=neutral, PublicKeyToken=127be25a6db25e07, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\IrisSkin4\X86\IrisSkin4.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Manager\managerInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manager\managerInfo.Designer.cs">
+      <DependentUpon>managerInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manager\UC_addadmin.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Manager\UC_addadmin.Designer.cs">
+      <DependentUpon>UC_addadmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manager\UC_addgradeform.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Manager\UC_addgradeform.Designer.cs">
+      <DependentUpon>UC_addgradeform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manager\UC_addstudent.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Manager\UC_addstudent.Designer.cs">
+      <DependentUpon>UC_addstudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manager\UC_courseinformation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Manager\UC_courseinformation.Designer.cs">
+      <DependentUpon>UC_courseinformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manager\UC_grade.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Manager\UC_grade.Designer.cs">
+      <DependentUpon>UC_grade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manager\UC_course.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Manager\UC_course.Designer.cs">
+      <DependentUpon>UC_course.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manager\UC_gradeshowform.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Manager\UC_gradeshowform.Designer.cs">
+      <DependentUpon>UC_gradeshowform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manager\UC_manage.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Manager\UC_manage.Designer.cs">
+      <DependentUpon>UC_manage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manager\UC_admininfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Manager\UC_admininfo.Designer.cs">
+      <DependentUpon>UC_admininfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manager\UC_modifystudentgrade.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Manager\UC_modifystudentgrade.Designer.cs">
+      <DependentUpon>UC_modifystudentgrade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manager\UC_modifystudentinfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Manager\UC_modifystudentinfo.Designer.cs">
+      <DependentUpon>UC_modifystudentinfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manager\UC_person.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Manager\UC_person.Designer.cs">
+      <DependentUpon>UC_person.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manager\UC_searchclassform.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Manager\UC_searchclassform.Designer.cs">
+      <DependentUpon>UC_searchclassform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student\studentInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Student\studentInfo.Designer.cs">
+      <DependentUpon>studentInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student\UC_course.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Student\UC_course.Designer.cs">
+      <DependentUpon>UC_course.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student\UC_grade.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Student\UC_grade.Designer.cs">
+      <DependentUpon>UC_grade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student\UC_searchClass.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Student\UC_searchClass.Designer.cs">
+      <DependentUpon>UC_searchClass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student\UC_selectClass.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Student\UC_selectClass.Designer.cs">
+      <DependentUpon>UC_selectClass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student\UC_stuInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Student\UC_stuInfo.Designer.cs">
+      <DependentUpon>UC_stuInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student\UC_PersonInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Student\UC_PersonInfo.Designer.cs">
+      <DependentUpon>UC_PersonInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student\UC_modifyPassword.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Student\UC_modifyPassword.Designer.cs">
+      <DependentUpon>UC_modifyPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student\UC_courseTable.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Student\UC_courseTable.Designer.cs">
+      <DependentUpon>UC_courseTable.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manager\UC_managerInfo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Manager\UC_managerInfo.Designer.cs">
+      <DependentUpon>UC_managerInfo.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manager\UC_managerInfo.resx">
+      <DependentUpon>UC_managerInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Manager\managerInfo.resx">
+      <DependentUpon>managerInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manager\UC_addadmin.resx">
+      <DependentUpon>UC_addadmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manager\UC_addgradeform.resx">
+      <DependentUpon>UC_addgradeform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manager\UC_addstudent.resx">
+      <DependentUpon>UC_addstudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manager\UC_courseinformation.resx">
+      <DependentUpon>UC_courseinformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manager\UC_grade.resx">
+      <DependentUpon>UC_grade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manager\UC_course.resx">
+      <DependentUpon>UC_course.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manager\UC_gradeshowform.resx">
+      <DependentUpon>UC_gradeshowform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manager\UC_manage.resx">
+      <DependentUpon>UC_manage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manager\UC_admininfo.resx">
+      <DependentUpon>UC_admininfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manager\UC_modifystudentgrade.resx">
+      <DependentUpon>UC_modifystudentgrade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manager\UC_modifystudentinfo.resx">
+      <DependentUpon>UC_modifystudentinfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manager\UC_person.resx">
+      <DependentUpon>UC_person.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manager\UC_searchclassform.resx">
+      <DependentUpon>UC_searchclassform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student\studentInfo.resx">
+      <DependentUpon>studentInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student\UC_course.resx">
+      <DependentUpon>UC_course.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student\UC_grade.resx">
+      <DependentUpon>UC_grade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student\UC_modifyPassword.resx">
+      <DependentUpon>UC_modifyPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student\UC_searchClass.resx">
+      <DependentUpon>UC_searchClass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student\UC_selectClass.resx">
+      <DependentUpon>UC_selectClass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student\UC_stuInfo.resx">
+      <DependentUpon>UC_stuInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student\UC_PersonInfo.resx">
+      <DependentUpon>UC_PersonInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Student\UC_courseTable.resx">
+      <DependentUpon>UC_courseTable.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
